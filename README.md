@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Akila Tharuka</h1>
+<h1 align="center">Hi 👋, I'm Tharuka EAA</h1>
 <h3 align="center">A passionate frontend developer from sri lanka</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kilar111&label=Profile%20views&color=0e75b6&style=flat" alt="kilar111" /> </p>
